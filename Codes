@@ -1,3 +1,7 @@
+
+Neocities use html and css btw!
+
+
 Paragraph- <p> </p> 
 
 image-  <img src=""
@@ -7,3 +11,5 @@ background image-  background-image: url(' ');
 <style> </style>
 
 Title-  <title> </title>
+
+Body- <body> </body>
